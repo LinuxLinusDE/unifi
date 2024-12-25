@@ -1,13 +1,5 @@
 #!/usr/bin/env bash
 
-###########################################################################
-#   Bash-Skript zum Einlesen von Netzbereichen aus einer Textdatei 
-#   und Ping-Sweep mittels fping. Erreichbare IPs werden in eine 
-#   neue Datei geschrieben.
-#
-#   Autor:   [Dein Name]
-#   Version: 1.0
-###########################################################################
 
 #############################
 #         Farben
